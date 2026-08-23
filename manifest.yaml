@@ -2,7 +2,7 @@ author: puspoaditya
 created_at: '2026-08-20T00:00:00Z'
 privacy: PRIVACY.md
 repo: https://github.com/puspoaditya/dify-plugin-cloudflare-workers-ai
-contact: https://github.com/puspoaditya
+contact: 112711073+puspoaditya@users.noreply.github.com
 description:
   en_US: Cloudflare Workers AI — serverless inference across open models (Llama 3.3 70B, Llama 4 Scout, Qwen 2.5 Coder, DeepSeek R1) with a generous free tier.
   zh_Hans: Cloudflare Workers AI — 通过开放的模型（Llama 3.3 70B、Llama 4 Scout、Qwen 2.5 Coder、DeepSeek R1）提供无服务器推理，并带有慷慨的免费额度。
